@@ -1,6 +1,7 @@
 ## Schedule
 
-* 2019-05: Toby.Hocking@nau.edu, graph-constrained changepoint detection.
+* 2019-05: Toby.Hocking@nau.edu, [graph-constrained changepoint
+  detection](2019-05.pdf), https://www.overleaf.com/read/wptwcpwvkcyg
 
 ## Number of pages to print
 
